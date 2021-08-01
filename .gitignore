@@ -1,0 +1,3 @@
+defconfig
+pkg
+*.pkg.tar.zst
